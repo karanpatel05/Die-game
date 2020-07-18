@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Die
+comment0.text=\n\ This\ class\ has\ representation\ of\ single\ die.\ \n\n\ @author\ (KaranKumar\ Patel)\n\ @version\ (6\ -10-2020)\n
+comment1.params=
+comment1.target=Die()
+comment1.text=\n\ Constructor\ of\ die\ Class\n
+comment2.params=
+comment2.target=int\ getFaceValue()
+comment2.text=\nThis\ is\ a\ method\ to\ get\ a\ facevalue\ of\ the\ Die.\n@param\ This\ method\ has\ no\ parameter\ to\ take\ in.\n@return\ This\ method\ return\ a\ Integer\ Value.\n
+comment3.params=
+comment3.target=int\ Roll()
+comment3.text=\nThis\ is\ a\ method\ to\ get\ a\ random\ value\ as\ in\ form\ of\ die\n@param\ This\ method\ has\ no\ parameter\ to\ take\ in.\n@return\ This\ method\ return\ a\ Integer\ Value.\n
+comment4.params=facevalue
+comment4.target=javax.swing.ImageIcon\ getPic(int)
+comment4.text=\nThis\ is\ a\ method\ to\ get\ a\ Imageicon\ of\ FaceValue.\n@param\ This\ method\ take\ Integer\ has\ a\ parameter\n@return\ This\ method\ return\ an\ Image\ of\ the\ faceValue..\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\nThis\ is\ a\ method\ to\ display\ the\ Textual\ Description\ of\ the\ Die.\n@param\ This\ method\ no\ parameter\ to\ take\ in.\n@return\ This\ method\ return\ String.\n
+numComments=6

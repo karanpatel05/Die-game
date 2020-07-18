@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=DieFrame
+comment0.text=\n\ This\ class\ extends\ Jframe\ and\ this\ class\ a\ various\ method\ to\ create\ and\ add\ \n\ Jpanel,\ JButton,\ Jlabel.\n\ This\ class\ has\ an\ inner\ Class\ for\ Action\ Event\n\ @author\ (Karankumar\ Patel)\n\ @version\ (6-11-2020)\n
+comment1.params=
+comment1.target=DieFrame()
+comment1.text=\n\ Constructor\ of\ DieFrame\ Class\n
+comment2.params=
+comment2.target=void\ createMainPanel()
+comment2.text=\n\ This\ is\ a\ method\ to\ create\ main\ panel\n\ @param\ This\ method\ does\ not\ have\ any\ parameters.\n\ @return\ this\ method\ does\ not\ return\ anything.\n
+comment3.params=
+comment3.target=void\ createScorePanel()
+comment3.text=\n\ This\ is\ a\ method\ to\ create\ score\ panel.\n\ @param\ This\ method\ does\ not\ have\ any\ parameters.\n\ @return\ this\ method\ does\ not\ return\ anything.\n
+comment4.params=
+comment4.target=void\ createDicePanel()
+comment4.text=\n\ This\ is\ a\ method\ to\ create\ dice\ panel.\n\ @param\ This\ method\ does\ not\ have\ any\ parameters.\n\ @return\ this\ method\ does\ not\ return\ anything.\n
+comment5.params=
+comment5.target=void\ createButtonPanel()
+comment5.text=\n\ This\ is\ a\ method\ to\ create\ button\ panel.\n\ @param\ This\ method\ does\ not\ have\ any\ parameters.\n\ @return\ this\ method\ does\ not\ return\ anything.\n
+numComments=6
